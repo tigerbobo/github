@@ -1,0 +1,3 @@
+git mv -f 'KnowledgeBase - 1.0.0.0' 'KnowledgeBase'
+git commit -m 'changed the foldername'
+git push -u origin master
