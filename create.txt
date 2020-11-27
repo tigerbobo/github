@@ -1,4 +1,0 @@
-1  Git GUI Here
-2  Create New Repository
-3  Select Directory
-4  Create
