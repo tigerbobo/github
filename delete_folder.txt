@@ -1,5 +1,5 @@
 1  git bush here
 2  git clone https://github.com/tigerbobo/project.git
-3  git rm -r --cached chartctrl
-4  git commit -m 'delete chartctrl' 
+3  git rm -r chartctrl
+4  git commit -m 'delete chartctrl'
 5  git push -u origin master
