@@ -16,4 +16,4 @@ Adding an existing project to GitHub using the command line
     $ git remote -v
     # Verifies the new remote URL
 9   Push the changes in your local repository to GitHub.
-10  git push -u origin master
+10  git push -u origin main
